@@ -18,4 +18,4 @@ AutoVision là một ứng dụng Web App thông minh giúp minh bạch hóa th�
 - **Computer Vision:** Ultralytics (YOLOv8), OpenCV
 - **Database:** SQLite (Embedded)
 - **Tiện ích:** FPDF (Xuất báo cáo PDF), Pandas, NumPy
-  ### LINK model_columns.pkl: https://drive.google.com/file/d/1SclpWg-GkBI0BshkwTMHLAKX04Gv4kwY/view?usp=drive_link
+  ### LINK model_columns.pkl: https://drive.google.com/drive/folders/1PWORDBUVwevrJs9JYlhpedKBEoupsIfrtHZtVJhagNv8t5fQ7sJQdD1f_kmpHeImSake1Kbq?usp=drive_link
