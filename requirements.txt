@@ -1,0 +1,7 @@
+streamlit
+pandas
+scikit-learn
+ultralytics
+opencv-python-headless
+fpdf
+Pillow
